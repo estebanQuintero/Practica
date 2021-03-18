@@ -1,0 +1,4 @@
+com/banismo/certificacion/screenplay/steps_definitions/ViewDocumentContractStepDefinition.java
+ com.banismo.certificacion.screenplay.steps_definitions.ViewDocumentContractStepDefinition
+com/banismo/certificacion/screenplay/runners/ViewDocumentContractRunner.java
+ com.banismo.certificacion.screenplay.runners.ViewDocumentContractRunner

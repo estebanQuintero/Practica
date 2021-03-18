@@ -1,0 +1,16 @@
+com/banismo/certificacion/screenplay/tasks/GoToSavingAccount.java
+ com.banismo.certificacion.screenplay.tasks.GoToSavingAccount
+com/banismo/certificacion/screenplay/models/model.java
+ com.banismo.certificacion.screenplay.models.model
+com/banismo/certificacion/screenplay/questions/question.java
+ com.banismo.certificacion.screenplay.questions.question
+com/banismo/certificacion/screenplay/user_interfaces/HomeCompanyPage.java
+ com.banismo.certificacion.screenplay.user_interfaces.HomeCompanyPage
+com/banismo/certificacion/screenplay/exeptions/exception.java
+ com.banismo.certificacion.screenplay.exeptions.exception
+com/banismo/certificacion/screenplay/util/GeneralConstant.java
+ com.banismo.certificacion.screenplay.util.GeneralConstant
+com/banismo/certificacion/screenplay/user_interfaces/DepositPage.java
+ com.banismo.certificacion.screenplay.user_interfaces.DepositPage
+com/banismo/certificacion/screenplay/interactions/SwitchWindow.java
+ com.banismo.certificacion.screenplay.interactions.SwitchWindow
